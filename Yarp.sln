@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service1", "service1.csproj", "{69637839-9511-4262-9605-8D6B68F75B43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service2", "..\Service2\Service2.csproj", "{D55D551A-A9EB-4091-B2BD-12306222FA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarpGateWay", "..\YarpGateWay\YarpGateWay.csproj", "{99D9C5A6-4114-448F-9097-FDB329320BAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{69637839-9511-4262-9605-8D6B68F75B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69637839-9511-4262-9605-8D6B68F75B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69637839-9511-4262-9605-8D6B68F75B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55D551A-A9EB-4091-B2BD-12306222FA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55D551A-A9EB-4091-B2BD-12306222FA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55D551A-A9EB-4091-B2BD-12306222FA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55D551A-A9EB-4091-B2BD-12306222FA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D9C5A6-4114-448F-9097-FDB329320BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D9C5A6-4114-448F-9097-FDB329320BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D9C5A6-4114-448F-9097-FDB329320BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D9C5A6-4114-448F-9097-FDB329320BAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
