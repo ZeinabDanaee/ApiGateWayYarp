@@ -6,7 +6,7 @@ namespace service1.Controllers
     [Route("[controller]")]
     public class Service1 : ControllerBase
     {
-        [HttpGet("/Service1")]
+        [HttpGet("/s1")]
         public string service1()
         {
             return "service1";
